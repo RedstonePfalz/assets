@@ -21,12 +21,6 @@
             "file": "https://mediafilez.forgecdn.net/files/4581/240/MouseTweaks-forge-mc1.20-2.25.jar"
         },
         {
-            "name": "OptiFine",
-            "version": "HD U I6 pre6",
-            "mod_page": "https://optifine.net",
-            "file": "https://optifine.net/downloadx?f=preview_OptiFine_1.20.1_HD_U_I6_pre6.jar&x=c0401fbd2a743b82b1a0df2bc7555be3"
-        },
-        {
             "name": "WorldEdit",
             "version": "7.2.15",
             "mod_page": "https://legacy.curseforge.com/minecraft/mc-mods/worldedit",
