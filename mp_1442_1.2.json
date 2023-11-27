@@ -18,8 +18,7 @@
             "name": "Mouse Tweaks",
             "version": "2.25",
             "mod_page": "https://legacy.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-            "file": "http://ipv4.download.thinkbroadband.com/200MB.zip",
-            "oldfile": "https://mediafilez.forgecdn.net/files/4581/240/MouseTweaks-forge-mc1.20-2.25.jar"
+            "file": "https://mediafilez.forgecdn.net/files/4581/240/MouseTweaks-forge-mc1.20-2.25.jar"
         },
         {
             "name": "WorldEdit",
