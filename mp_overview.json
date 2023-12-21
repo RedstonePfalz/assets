@@ -1,0 +1,26 @@
+{
+    "version": 1142,
+    "modpackCount": 1,
+    "modlist": [
+        {
+            "id": 1442,
+            "name": "EnhancedVanilla",
+            "author": "RedstonePfalz",
+            "version": "1.2",
+            "lastUpdated": "2023-11-13T17:38:00+01:00",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Telefunken_FuBK_test_pattern.svg/2560px-Telefunken_FuBK_test_pattern.svg.png",
+            "mod_count": 4,
+            "mc_version": "1.20.1",
+            "forge_version": "47.2.0",
+            "short_description": "Bietet ein erweitertes Vanilla-Erlebnis",
+            "description": "Mit diesem Modpack erhältst Du mehr Funktionen in Vanilla-Minecraft. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "pictures": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Telefunken_FuBK_test_pattern.svg/2560px-Telefunken_FuBK_test_pattern.svg.png",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Face_Recognition_Field_Test_at_S%C3%BCdkreuz_05.jpg/640px-Face_Recognition_Field_Test_at_S%C3%BCdkreuz_05.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Face_Recognition_Field_Test_at_S%C3%BCdkreuz_26.jpg/640px-Face_Recognition_Field_Test_at_S%C3%BCdkreuz_26.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Vectron_193_289_Dresden_Hbf.jpg/640px-Vectron_193_289_Dresden_Hbf.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Siemens_Vectron_Dual_Mode_248_001_in_Brake_%28Unterweser%29.jpg/640px-Siemens_Vectron_Dual_Mode_248_001_in_Brake_%28Unterweser%29.jpg"
+            ]
+        }
+    ]
+}
