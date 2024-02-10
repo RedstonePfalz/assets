@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="TV - Fernsehen FREE",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="TV - Fernsehen FREE",ZDF HD+
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="TV - Fernsehen FREE",ZDF HD
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="TV - Fernsehen FREE",3 sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="TV - Fernsehen FREE",ARTE HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="TV - Fernsehen FREE",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="TV - Fernsehen FREE",one HD
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="TV - Fernsehen FREE",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="TV - Fernsehen FREE",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="TV - Fernsehen FREE",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="TV - Fernsehen FREE",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="TV - Fernsehen FREE",WELT
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="TV - Fernsehen FREE",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="TV - Fernsehen FREE",Nickelodeon
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="TV - Fernsehen FREE",WDR HD
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWRFernsehen-rp.de" group-title="TV - Fernsehen FREE",SWR Rheinland-Pfalz HD
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" group-title="TV - Fernsehen FREE",NDR Niedersachsen HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8
+#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="TV - Fernsehen FREE",Radio Bremen TV HD
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" group-title="TV - Fernsehen FREE",BR Fernsehen Süd HD
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="TV - Fernsehen FREE",MDR Sachsen HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="TV - Fernsehen FREE",hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="TV - Fernsehen FREE",rbb Berlin HD
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="TV - Fernsehen FREE",SR Fernsehen HD (Saarländischen)
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-id="" group-title="TV - Fernsehen FREE",Parlamentsfernsehen 1
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="TV - Fernsehen FREE",ORF eins HD
+https://orf1.mdn.ors.at/out/u/orf1/q6a/manifest_6.m3u8
+#EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" group-title="TV - Fernsehen FREE",ORF 2 HD
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF III HD" tvg-id="ORF3.at" group-title="TV - Fernsehen FREE",ORF III HD
+https://orf3.mdn.ors.at/out/u/orf3/q6a/manifest_6.m3u8
+#EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" group-title="TV - Fernsehen FREE",ORF SPORT +
+https://orfs.mdn.ors.at/out/u/orfs/q6a/manifest_6.m3u8
