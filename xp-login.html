@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="de">
+   <head>
+      <title>Login</title>
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="https://unpkg.com/98.css">
+      <style>
+         body {
+           background-color: #c0c0c0
+         }
+         .content {
+           position: fixed;
+           inset: 0px;
+           width: 12rem;
+           height: 5rem;
+           max-width: 100vw;
+           max-height: 100dvh;
+           margin: auto;
+         }
+      </style>
+   </head>
+   <body>
+      <form class="content">
+         <div class="window" style="width: 320px">
+            <div class="title-bar">
+               <div  class="title-bar-text">Login</div>
+            </div>
+            <div class="window-body">
+               <div class="field-row-stacked" style="width: 200px">
+                  <label for="email">E-Mail-Adresse</label>
+                  <input id="email" type="email" name="email" autofocus>
+               </div>
+               <div class="field-row-stacked" style="width: 200px">
+                  <label for="password">Passwort</label>
+                  <input id="password" type="password" name="password">
+               </div>
+               <br>
+               <input type="submit" value="Anmelden">
+            </div>
+            <div class="status-bar">
+               <p class="status-bar-field">RedManager</p>
+               <p class="status-bar-field">Version: 1.3.2</p>
+            </div>
+         </div>
+      </form>
+   </body>
+</html>
